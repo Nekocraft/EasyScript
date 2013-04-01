@@ -4,10 +4,10 @@ main: "org.cyberiantiger.minecraft.easyscript.EasyScript"
 website: "http://dev.bukkit.org/server-mods/easyscript/"
 commands:
   script:
-    description: Execute a script
+    description: 执行一个逻辑
     usage: /script <name> <args>
     permission: easyscript.script
   scriptreload:
-    description: Recompile scripts
+    description: 重新加载逻辑
     usage: /scriptreload
     permission: easyscript.reload
